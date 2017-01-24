@@ -11,7 +11,7 @@ Set the following environment variables:
 	FIREBASE_CLIENT_EMAIL
 	FIREBASE_DB_URL
 
-Then simply do `const admin = require('init-firebase-admin')` as use as per normal.
+Then simply do `const admin = require('init-firebase-admin')` and use as per normal.
 
 
 ## Motivation

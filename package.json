@@ -1,6 +1,6 @@
 {
   "name": "init-firebase-admin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Firebase Admin Node SDK Initialization",
   "main": "index.js",
   "scripts": {

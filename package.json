@@ -1,6 +1,6 @@
 {
   "name": "init-firebase-admin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Firebase Admin Node SDK Initialization",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/janakaj/init-firebase-admin#readme",
   "dependencies": {
-    "firebase-admin": "4.0.5"
+    "firebase-admin": "5.1.0"
   }
 }

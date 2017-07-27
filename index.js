@@ -8,7 +8,8 @@ admin.initializeApp({
 	credential: admin.credential.cert({
 		projectId: process.env.FIREBASE_PROJECT_ID,
 		clientEmail: process.env.FIREBASE_CLIENT_EMAIL,
-		privateKey: privateKey
+		privateKey: privateKey,
+		storageBucket: process.env.FIREBASE_STORAGE_BUCKET
 	}),
 	databaseURL: process.env.FIREBASE_DB_URL
 })
